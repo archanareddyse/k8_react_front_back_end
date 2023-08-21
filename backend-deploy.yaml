@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: backend
-        image: scott2srikanth/realgrand_backend
+        image: <docker hub >/<image name>
         ports:
         - containerPort: 5000
 ---
