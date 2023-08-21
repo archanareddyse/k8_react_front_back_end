@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: scott2srikanth/realgrand_frontend
+        image: <docker hub >/<image name>
         ports:
         - containerPort: 80
 ---
